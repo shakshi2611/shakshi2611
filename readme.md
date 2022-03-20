@@ -2,7 +2,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
-<img src="https://user-images.githubusercontent.com/82070760/159156745-9f5b2300-721b-4fed-b192-e30c31293990.gif" align="right">
+<img src="https://user-images.githubusercontent.com/82070760/159156745-9f5b2300-721b-4fed-b192-e30c31293990.gif" align="right" width="300px">
+
 ✔️ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
 ✔️ I’m currently Developing Paycron Payment Gateway @Plaxonic<br>
 ✔️ I’m currently learning NextJS & Bootstrap<br>
@@ -16,7 +17,6 @@
 ✔️ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 ✔️ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
  
-
 <h4 align="left">Visitor's count :eyes:</h4>
 
 <p align="left"><img src="https://profile-counter.glitch.me/{pagletladki}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
