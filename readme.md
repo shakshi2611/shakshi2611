@@ -21,6 +21,8 @@
 
 <p align="left"><img src="https://profile-counter.glitch.me/{pagletladki}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
+<img src="https://user-images.githubusercontent.com/82070760/159441193-e1c89820-4abc-48d7-894a-ed36208b5537.gif" align="right">
+
 
 ```python
 class paglet():
