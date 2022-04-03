@@ -1,5 +1,5 @@
 <h1>Hello world<img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30" >
-<img src="hover" width="40" height="40"</h1>
+</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" >&nbsp;***Talking about Personal Stuffs...***
