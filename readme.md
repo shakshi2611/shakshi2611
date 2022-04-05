@@ -5,8 +5,8 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" >&nbsp;***Talking about Personal Stuffs...***
 <img src="https://user-images.githubusercontent.com/82070760/159156745-9f5b2300-721b-4fed-b192-e30c31293990.gif" align="right" width="300px" >
 
-✔️ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
-✔️ I’m currently Developing Paycron Payment Gateway @Plaxonic<br>
+✔️ 😎 Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
+✔️ 😏 I’m currently Developing Paycron Payment Gateway @Plaxonic<br>
 ✔️ I’m currently learning NextJS & Bootstrap<br>
 ✔️ I'm quite good at NodeJs, ReactJs, Python, Pig Latin.<br>
 ✔️ I’m looking to collaborate with any Open - Source contribution<br>
