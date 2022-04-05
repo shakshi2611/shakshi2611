@@ -9,7 +9,7 @@
 ✔️ 😏 I’m currently Developing Paycron Payment Gateway @Plaxonic<br>
 ✔️ 🤓 I’m currently learning NextJS & Bootstrap<br>
 ✔️ 🥱 I'm quite good at NodeJs, ReactJs, Python, Pig Latin.<br>
-✔️ 🙃 I’m looking to collaborate with any Open - Source contribution<br>
+ 🙃 I’m looking to collaborate with any Open - Source contribution<br>
  😶 I’m looking for help for learning Remote Sensing<br>
  😵‍💫 I regularly solve problems & read articles on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/shakshikumari215) <br>
  😵‍💫 Connect me in your list on [linkedin](https://www.linkedin.com/in/shakshi-kumari-prajapati-a01872203/) <br>
