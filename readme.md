@@ -15,8 +15,8 @@
  😵‍💫  Connect me in your list on [linkedin](https://www.linkedin.com/in/shakshi-kumari-prajapati-a01872203/) <br>
  🤭  Have a look over My personal [Portfolio Website](https://hungry-kirch-517d9f.netlify.app/)<br>
  🤝  Look at My contribution [stats](https://github.com/shakshi2611/web) on [Gitlab](https://github.com/shakshi2611)<br>
- 🙋‍♀️ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
- 🌏 Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
+ 🙋‍♀️  Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
+ 🌏  Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
  
 <h4 align="left">Visitor's count :eyes:</h4>
 
