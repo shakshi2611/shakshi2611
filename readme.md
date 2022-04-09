@@ -33,6 +33,7 @@ class shakshi():
     self.location = "Patna";
     self.twitter = "https://twitter.com/Shining81598862?t=GmJaf5XGl3jGOcRrpR5eVA&s=09";
     self.web = "https://hungry-kirch-517d9f.netlify.app/";
+    self.linkdin = "https://www.linkedin.com/feed/"
   
   def __str__(self):
     return self.name
