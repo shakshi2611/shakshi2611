@@ -32,7 +32,7 @@ class shakshi():
     self.username = "shakshi2611";
     self.location = "Patna";
     self.twitter = "https://twitter.com/Shining81598862?t=GmJaf5XGl3jGOcRrpR5eVA&s=09";
-    self.web = "https://hungry-kirch-517d9f.netlify.app/";
+    self.web = "https://bit.ly/3DcgflC";
     self.linkdin = "https://www.linkedin.com/feed/";
   
   def __str__(self):
