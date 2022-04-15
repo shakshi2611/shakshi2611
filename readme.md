@@ -43,5 +43,15 @@ if __name__ == '__main__':
     me = Shakshi Kumari()
 ```
 
+<main role="main" class="main-content" id="main-content">
+    <div class="titleCont">
+        <h1 class="main-title" id="main-title" align="center">
+            "Testing leads to faliure,<br><span style="padding-left:100px">and faliure </span><br><span style="padding-right:110px">leads to understanding.",</span><br><span style="padding-left:-20px">- Burt Rutan</span>
+        </h1>
+    </div>
+    <canvas id="noise" class="noise"></canvas>
+  <div class="vignette"></div>
+</main>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
