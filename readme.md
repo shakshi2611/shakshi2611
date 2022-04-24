@@ -43,17 +43,19 @@ if __name__ == '__main__':
     me = Shakshi Kumari()
 ```
 
-<span title="See, this is the tooltip. :)">Move your mouse over me!</span>
+<span title="Hi Everyone!">![blushing](https://user-images.githubusercontent.com/82070760/164959826-7b253610-a423-4060-bdc5-0a88ccca338c.gif)
+</span>
 
 <main role="main" class="main-content" id="main-content">
     <div class="titleCont">
-        <h2 class="main-title" id="main-title" align="center">
+        <h2 class="main-title" id="main-title" align="right">
             "Testing leads to faliure,<br><span style="padding-left:100px">and faliure </span><br><span style="padding-right:110px">leads to understanding."</span><br><span style="padding-left:-20px">- Burt Rutan</span>
         </h2>
     </div>
     <canvas id="noise" class="noise"></canvas>
   <div class="vignette"></div>
 </main>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
