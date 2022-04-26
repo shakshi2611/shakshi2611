@@ -20,7 +20,6 @@
  
 <h3 align="left">Visitor's count :eyes:</h3>
 
-
 <p align="left"><img src="https://profile-counter.glitch.me/{pagletladki}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
 ```python
