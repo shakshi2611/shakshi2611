@@ -23,7 +23,6 @@
 
 <p align="left"><img src="https://profile-counter.glitch.me/{pagletladki}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
-
 ```python
 class shakshi():
     
