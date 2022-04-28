@@ -5,15 +5,15 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" >&nbsp;***Talking about Personal Stuffs...***
 <img src="https://user-images.githubusercontent.com/82070760/159156745-9f5b2300-721b-4fed-b192-e30c31293990.gif" align="right" width="300px" >
 
- 😎  Pronouns: ***He/His*** or ***TeamMaker*** <br>
- 😏  Currently Developing Paycron Payment Gateway @Plaxonic<br>
- 🤓  Currently learning NextJS & Bootstrap<br>
- 🥱  Quite good at NodeJs, ReactJs, Python, Pig Latin.<br>
- 🙃  looking to collaborate with any Open - Source contribution<br>
- 😶  looking for help for learning Remote Sensing<br>
- 😵‍💫  Regular at solving problems & reading articles on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/shakshikumari215) <br>
- 😵‍💫  Connect me in your list on [linkedin](https://www.linkedin.com/in/shakshi-kumari-prajapati-a01872203/) <br>
- 🤭  Have a look over My personal [Portfolio Website](https://bit.ly/3DcgflC)<br>
+ 😎  <b>Pronouns: ***He/His*** or ***TeamMaker*** </b><br>
+ 😏  <b>Currently Developing Paycron Payment Gateway @Plaxonic</b><br>
+ 🤓  <b>Currently learning NextJS & Bootstrap</b><br>
+ 🥱  <b>Quite good at NodeJs, ReactJs, Python, Pig Latin.</b><br>
+ 🙃  <b>looking to collaborate with any Open - Source contribution</b><br>
+ 😶  <b>looking for help for learning Remote Sensing</b><br>
+ 😵‍💫  <b>Regular at solving problems & reading articles on</b> [GeeksforGeeks](https://auth.geeksforgeeks.org/user/shakshikumari215) <br>
+ 😵‍💫  <b>Connect me in your list on </b>[linkedin](https://www.linkedin.com/in/shakshi-kumari-prajapati-a01872203/) <br>
+ 🤭  <b>Have a look over My personal </b>[Portfolio Website](https://bit.ly/3DcgflC)<br>
  🤝  Look at My contribution [stats](https://github.com/shakshi2611/web) on [Gitlab](https://github.com/shakshi2611)<br>
  🙋‍♀️  Ask me about anything, I am happy to help, only if the ball is in my court!<br>
  🌏  Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
