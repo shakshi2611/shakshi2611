@@ -1,9 +1,8 @@
 <h1>ℌ𝔢𝔩𝔩𝔬 𝔴𝔬𝔯𝔩𝔡<img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30" >
 </h1>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" >&nbsp;***Talking about Personal Stuffs...***
-<img src="https://user-images.githubusercontent.com/82070760/159156745-9f5b2300-721b-4fed-b192-e30c31293990.gif" align="right" width="300px" >
+
+***Talking about Personal Stuffs...***
 
  😎  <b>Pronouns: ***He/His*** or ***TeamMaker*** </b><br>
  😏  <b>Currently Developing Paycron Payment Gateway @Plaxonic</b><br>
