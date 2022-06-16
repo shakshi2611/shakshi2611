@@ -1,10 +1,6 @@
 <h1>ℌ𝔢𝔩𝔩𝔬 𝔴𝔬𝔯𝔩𝔡<img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30" >
 </h1>
 
-<body>
-   <img src="https://user-images.githubusercontent.com/82070760/174099874-2482f4f5-a5c8-4664-9b67-6692d8097fe3.gif" width="1500" height="500">
-</body>
-
 
 
 
