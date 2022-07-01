@@ -1,10 +1,8 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Hello World</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakshi2611&label=Profile%20views&color=0e75b6&style=flat" alt="shakshi2611" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakshi2611" alt="shakshi2611" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/shakshi73008938" target="blank"><img src="https://img.shields.io/twitter/follow/shakshi73008938?logo=twitter&style=for-the-badge" alt="shakshi73008938" /></a> </p>
 
 - 🔭 currently working on **Paycron Payment Gateway@plaxonic**
 
@@ -23,6 +21,10 @@
 - 📄 Have a look on my contribution [https://github.com/shakshi2611](https://github.com/shakshi2611)
 
 - ⚡ Fun fact: **At The time of Stress coding, I use to be in half sleeping mode**
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakshi2611" alt="shakshi2611" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
