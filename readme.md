@@ -6,21 +6,13 @@
 
 
 - 🔭 currently working on **Paycron Payment Gateway @plaxonic
-
 - 🌱 currently learning **NextJs, ReactJs, Python,Pig latin.
-
 - 🤝 looking for help for learning **Remote Sensing
-
 - 👨‍💻 Have a look over My Personal [Portfolio Website](https://bit.ly/3DcgflC)<br>
-
 - 📝 Connect me in your list on [linkedin](https://www.linkedin.com/in/shakshi-kumari-prajapati-a01872203/) <br>
-
 - 💬 Ask me about anything, **I am happy to help, only if the ball is in my court!**
-
 - 📫 Regular at solving problems & reading articles on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/shakshikumari215) <br>
-
 - 📄 Have a look on my contribution [stats](https://github.com/shakshi2611/web) on [Gitlab](https://github.com/shakshi2611)<br>
-
 - ⚡ Fun fact: **At The time of Stress coding, I use to be in half sleeping mode**
 
 
