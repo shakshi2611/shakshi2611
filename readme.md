@@ -6,9 +6,9 @@
 
 
 
-- 🔭 currently working on **Paycron Payment Gateway @plaxonic
-- 🌱 currently learning **NextJs, ReactJs, Python,Pig latin.
-- 🤝 looking for help for learning **Remote Sensing
+- 🔭 currently working on **Web Development**
+- 🌱 currently learning **NextJs, ReactJs, Python.
+- 🤝 looking for help for learning **machine learning**
 - 👨‍💻 Have a look over My Personal [Portfolio Website](https://bit.ly/3DcgflC)<br>
 - 📝 Connect me in your list on [linkedin](https://www.linkedin.com/in/shakshi-kumari-prajapati-a01872203/) <br>
 - 💬 Ask me about anything, **I am happy to help, only if the ball is in my court!**
