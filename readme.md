@@ -7,7 +7,7 @@
 
 
 - 🔭 currently working on **Web Development**
-- 🌱 currently learning **NextJs, ReactJs, Python.
+- 🌱 currently learning **NextJs, ReactJs, Python**.
 - 🤝 looking for help for learning **machine learning**
 - 👨‍💻 Have a look over My Personal [Portfolio Website](https://bit.ly/3DcgflC)<br>
 - 📝 Connect me in your list on [linkedin](https://www.linkedin.com/in/shakshi-kumari-prajapati-a01872203/) <br>
