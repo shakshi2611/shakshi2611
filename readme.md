@@ -9,7 +9,7 @@
 - 🔭 currently working on **Web Development**
 - 🌱 currently learning **NextJs, ReactJs, Python**.
 - 🤝 looking for help for learning **machine learning**
-- 👨‍💻 Have a look over My Personal [Portfolio Website](https://bit.ly/3DcgflC)<br>
+- 👨‍💻 Have a look over My Personal [Portfolio Website](http://bitly.ws/zcqR)<br>
 - 📝 Connect me in your list on [linkedin](https://www.linkedin.com/in/shakshi-kumari-prajapati-a01872203/) <br>
 - 💬 Ask me about anything, **I am happy to help, only if the ball is in my court!**
 - 📫 Regular at solving problems & reading articles on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/shakshikumari215) <br>
