@@ -6,6 +6,7 @@
 
 
 
+
 - 🔭 currently working on **Web Development**
 - 🌱 currently learning **NextJs, ReactJs, React Native, Tailwind Css, Python**.
 - 🤝 looking for help for learning **machine learning**
