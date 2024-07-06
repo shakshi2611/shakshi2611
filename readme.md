@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakshi2611&label=Profile%20views&color=0e75b6&style=flat" alt="shakshi2611" /> </p>
 
-- 🔭 currently working on **Web Development**
+- 🔭 currently working on **Frontend Development**
 - 🌱 currently learning **NextJs, ReactJs, React Native, Tailwind Css, Python**.
 - 🤝 looking for help for learning **machine learning**
 - 👨‍💻 Have a look over My Personal [Portfolio Website](http://bitly.ws/zcqR)<br>
