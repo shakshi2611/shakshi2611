@@ -6,7 +6,6 @@
 
 - 🔭 currently working on **Frontend Development**
 - 🌱 currently learning **NextJs, ReactJs, React Native, Tailwind Css, Python**.
-- 🤝 looking for help for learning **machine learning**
 - 👨‍💻 Have a look over My Personal [Portfolio Website](http://bitly.ws/zcqR)<br>
 - 📝 Connect me in your list on [linkedin](https://www.linkedin.com/in/shakshi-kumari-prajapati-a01872203/) <br>
 - 💬 Ask me about anything, **I am happy to help, only if the ball is in my court!**
