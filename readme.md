@@ -1,7 +1,6 @@
 <img src="https://user-images.githubusercontent.com/82070760/212685207-21b48f3f-f5c8-4850-a248-10ada13a5d17.gif">
 <h1>ℌ𝔢𝔩𝔩𝔬 𝔴𝔬𝔯𝔩𝔡<img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30" >
 </h1>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakshi2611&label=Profile%20views&color=0e75b6&style=flat" alt="shakshi2611" /> </p>
 
 - 🔭 currently working on **Frontend Development**
